@@ -11,8 +11,7 @@ This will help you further practice adding classes and using class selectors, so
 * **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
 
 ## Desired Outcome
-
-![image](https://github.com/Percobain/TOP_Assignments/assets/118096592/b10bb50a-20fb-49df-9c48-323389c9da21)
+![desired outcome](./desired-outcome.png)
 
 
 
