@@ -13,8 +13,7 @@ The properties you need to add to each element are:
 * `button`: an orange background and a font size of 18px
 
 ## Desired Outcome
-![desired outcome]
-![image](https://github.com/Percobain/TOP_Assignments/assets/118096592/d947d63a-687e-48eb-bd7d-4f8f19913ada)
+![desired outcome](./desired-outcome.png)
 
 
 
