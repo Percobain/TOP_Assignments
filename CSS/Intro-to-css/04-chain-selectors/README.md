@@ -14,8 +14,7 @@ The properties you need to add to each element are:
 * Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
 
 ## Desired Outcome
-
-![image](https://github.com/Percobain/TOP_Assignments/assets/118096592/215b5b56-93b5-4f2e-9d5c-92f7ed5b95d2)
+![desired outcome](./desired-outcome.png)
 
 
 ### Self Check
